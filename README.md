@@ -12,7 +12,7 @@ Python application that translates text between 100+ languages using Google Tran
 ## How to Run
 1. Install requirements: `pip install googletrans==4.0.0-rc1 ipywidgets`
 2. Open Jupyter Notebook: `jupyter notebook`
-3. Run all cells in `CodeAlpha_Task1_Language_Translator.ipynb`
+3. Run all cells in `CodeAlpha_Task1_Language_Translator.py`
 
 ## Demo Video
-See `demo_task1.mp4` for working demonstration.
+See `CodeAlpha_Task1_Language_Translation_Screenrecording` for working demonstration.
