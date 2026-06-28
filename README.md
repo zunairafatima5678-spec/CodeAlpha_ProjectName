@@ -103,8 +103,9 @@ See `CodeAlpha_Task4_Object_Tracking_ScreenRecording.zip` for demonstration.
 #### **Files Included:**
 - `CodeAlpha_Task4_Object_Detection_Tracking.py` : Main code file
 - `CodeAlpha_Task4_Object_Tracking_ScreenRecording.zip` : Screen recording
-- `CodeAlpha_Task4_Video.mp4` : Input video file used for detection
-- `CodeAlpha_Task4_Output_Tracking.mp4` : Output video with detected and tracked objects
-
+- `CodeAlpha_Task4_Video.zip` : Input video file used for detection
+- `CodeAlpha_Task4_Output_Tracking.zip` : Output video with detected and tracked objects
+###*About:*
+This project is part of CodeAlpha Internship Python Programming Track
 
 
