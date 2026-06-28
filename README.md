@@ -81,30 +81,42 @@ See `CodeAlpha_Task3_Music_Generation.zip` for demonstration.
 - `CodeAlpha_TASK3_Generated_Music.mp3.mid` : AI generated music file. Open it in any media player.
 ---
 
-### *4. Task 4: Object Detection & Tracking* `CodeAlpha_Task4_Object_Detection&Tracking.py`
+### *4. Task 4: Object Detection & Tracking* `CodeAlpha_Task4_Object_Detection_Tracking.py`
 
 Detects and tracks multiple objects in a video using YOLOv8 and DeepSORT.
 
 #### *Features:*
 - Real-time object detection with unique IDs
-- Colored bounding boxes for each object
+- Colored bounding boxes for each object - Category Based
 - Saves output as a new video file
 
-#### *How to Run:* 
+#### *A. Video File Version - How to Run:* 
 1.  *Install Requirements:*
     pip install ultralytics deep-sort-realtime opencv-python
-2.  *Requirement:* Place your `video.mp4` file in the same folder.
+2.  *Requirement:* Place your `CodeAlpha_Task4_Video.zip` file in the same folder.
 3.  *Run the file:*
     python CodeAlpha_Task4_Object_Detection_Tracking.py
-4.  *Output:* `output_tracking.mp4` will be created. Press `q` to exit the preview window.
+4.  *Output:* `CodeAlpha_Task4_Output_Tracking.zip` will be created. Press `q` to exit.
+
+#### *B. Webcam Version - How to Run:* 
+1.  *File:* `CodeAlpha_Task4_Webcam_Tracking.py` 
+2.  *Run the file:*
+    python CodeAlpha_Task4_Webcam_Tracking.py
+3.  *Output:* `CodeAlpha_Task4_Webcam_Recording.zip` will be created. Press `q` to exit.
 
 #### *Demo Video:*
-See `CodeAlpha_Task4_Object_Tracking_ScreenRecording.zip` for demonstration.
+1.  See `CodeAlpha_Task4_Object_Tracking_ScreenRecording.zip` - Video File Demo
+2.  See `CodeAlpha_Task4_Webcam_ScreenRecording.zip` - Webcam Live Demo
+
 #### **Files Included:**
-- `CodeAlpha_Task4_Object_Detection_Tracking.py` : Main code file
-- `CodeAlpha_Task4_Object_Tracking_ScreenRecording.zip` : Screen recording
-- `CodeAlpha_Task4_Video.zip` : Input video file used for detection
-- `CodeAlpha_Task4_Output_Tracking.zip` : Output video with detected and tracked objects
+1- `CodeAlpha_Task4_Object_Detection_Tracking.py` : Main code file - Video Input
+2- `CodeAlpha_Task4_Webcam_Tracking.py` : Webcam code file - Live Input
+3- `CodeAlpha_Task4_Video.zip` : Input video file used for detection
+4- `CodeAlpha_Task4_Output_Tracking.zip` : Output video with detected and tracked objects
+5- `CodeAlpha_Task4_Webcam_Recording.zip` : Output video recorded from webcam
+6- `CodeAlpha_Task4_Object_Tracking_ScreenRecording.zip` : Screen recording - Video File
+7- `CodeAlpha_Task4_Webcam_ScreenRecording.zip` : Screen recording - Webcam Live
+
 ###*About:*
 This project is part of CodeAlpha Internship Python Programming Track
 
