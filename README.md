@@ -110,12 +110,12 @@ Detects and tracks multiple objects in a video using YOLOv8 and DeepSORT.
 
 #### **Files Included:**
 1- `CodeAlpha_Task4_Object_Detection_Tracking.py` : Main code file - Video Input
-2- `CodeAlpha_Task4_Webcam_Tracking.py` : Webcam code file - Live Input
+2- `CodeAlpha_Task4_Object_Detection_Tracking_Webcam.py` : Webcam code file - Live Input
 3- `CodeAlpha_Task4_Video.zip` : Input video file used for detection
 4- `CodeAlpha_Task4_Output_Tracking.zip` : Output video with detected and tracked objects
 5- `CodeAlpha_Task4_Webcam_Recording.zip` : Output video recorded from webcam
 6- `CodeAlpha_Task4_Object_Tracking_ScreenRecording.zip` : Screen recording - Video File
-7- `CodeAlpha_Task4_Webcam_ScreenRecording.zip` : Screen recording - Webcam Live
+7- `CodeAlpha_Task4_Object_Tracking_Webcam_ScreenRecording.zip` : Screen recording - Webcam Live
 
 ###*About:*
 This project is part of CodeAlpha Internship Python Programming Track
